@@ -26,6 +26,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vithurshan&show_icons=true&locale=en&layout=compact" alt="vithurshan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vithurshan&show_icons=true&locale=en" alt="vithurshan" /></p>
+<div style={align:center}>
+  ![snake gif](https://github.com/Vithurshan2002/Vithurshan2002/blob/output/github-snake-dark.svg)
+</div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vithurshan&" alt="vithurshan" /></p>
-
